@@ -1,2 +1,3 @@
-五子棋需要安装pygame\n
+五子棋需要安装pygame
+
 pip install pygame
